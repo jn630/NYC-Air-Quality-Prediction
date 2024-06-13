@@ -6,6 +6,8 @@ This project aims to compare the performance of two models, XGBoost and Prophet,
 
 <img width="678" alt="Screenshot 2024-05-29 at 12 06 04" src="https://github.com/jn630/NYC-Air-Quality-Prediction/assets/156944051/b1800312-e691-409b-95f4-6c4c7fe434a5">
 
+## EDA
+![EDA](https://github.com/jn630/NYC-Air-Quality-Prediction/assets/156944051/720ee329-b0f2-48d2-946b-497d99a27a0a)
 
 
 
