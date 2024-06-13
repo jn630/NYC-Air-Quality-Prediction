@@ -4,6 +4,11 @@
 
 This project aims to compare the performance of two models, XGBoost and Prophet, in predicting AQI (Air Quality Index). [Here](https://www.kaggle.com/datasets/calebreigada/us-air-quality-1980present) is the data.
 
+<img width="678" alt="Screenshot 2024-05-29 at 12 06 04" src="https://github.com/jn630/NYC-Air-Quality-Prediction/assets/156944051/b1800312-e691-409b-95f4-6c4c7fe434a5">
+
+
+
+
 ## Metrics Used
 
 - Mean Squared Error (MSE)
