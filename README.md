@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project aims to compare the performance of two models, XGBoost and Prophet, in predicting AQI (Air Quality Index). Here is the data.
+This project aims to compare the performance of two models, XGBoost and Prophet, in predicting AQI (Air Quality Index). [Here]([https://www.kaggle.com/competitions/usedcars2023](https://www.kaggle.com/datasets/calebreigada/us-air-quality-1980present)) is the data.
 
 ## Metrics Used
 
