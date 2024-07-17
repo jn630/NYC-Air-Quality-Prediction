@@ -1,4 +1,4 @@
-# NYC-Air-Quality-Prediction
+# NYC Air Quality Prediction
 
 ## Objective
 
